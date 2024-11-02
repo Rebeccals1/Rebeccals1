@@ -3,6 +3,7 @@
 ## About Me
 My name is Rebecca, I'm currently attending California Polytechnic State University Pomona and I'm majoring in Computer Science. I started out as a self-taught Graphic Designer, but realized later on that my passion for art is better spent as a hobby more than a career. I've been coding for websites on and off since I was a teenager because it was a second passion of mine. However, I never thought I was 'smart' enough to be a software developer growing up. My mind has since changed, I'm now on my way to completing my bachelors in Computer Science. I'm very excited for the future! Expect more applications and projects to be made in the future (when time allows)...
 
+
 🌱 I’m currently learning ...
 - LangChain API
 - Supabase API
