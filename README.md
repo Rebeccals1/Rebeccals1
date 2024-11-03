@@ -1,9 +1,7 @@
 ## Welcome! 👋
-My name is Rebecca, I'm currently attending California Polytechnic State University Pomona and I'm majoring in Computer Science. I started out as a self-taught Graphic Designer. While doing Graphic Design part-time, I was also a full-time stay at home mom. 
+My name is Rebecca, I'm currently attending California Polytechnic State University Pomona and I'm majoring in Computer Science. I started out as a self-taught Graphic Designer. While doing Graphic Design part-time, I was also a full-time stay at home mom. I've coded and developed several websites on the side through out the years, but never thought I was good enough to make it as a career. 
 
-I've coded and developed several websites on the side through out the years, but never thought I was good enough to make it as a career. Several years later, I ended up switching paths because I realized that my passion for art is better spent as a hobby instead. My love for software development has since grown into a second passion of mine. I find myself enjoying it more and more as time goes by...
-
-Expect to see more projects in the future (when time allows)
+Several years later, I ended up switching paths because I realized that my passion for art is better spent as a hobby instead. My love for software development has since grown into a second passion of mine. I find myself enjoying it more and more as time goes by...
 
 <hr>
   <details>
