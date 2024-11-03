@@ -9,10 +9,8 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 
-      
+      - uses: rebeccals/waka-readme-stats@master 
       - name: WakaTime Metrics
-        uses: anmol098/waka-readme-stats@v2.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           token: ${{ secrets.WAKA_GITHUB_TOKEN }}
