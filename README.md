@@ -2,7 +2,7 @@
 My name is <strong>Rebecca L. Smith</strong>, I'm currently attending California Polytechnic State University Pomona and I'm majoring in Computer Science. I started out as a self-taught Graphic Designer. While doing Graphic Design part-time, I was also a full-time mom. I've designed and coded several websites on the side through out the years, but never made it a career. Many years later, I switched paths because I found that my passion for art is better spent as a hobby. My love for software development has since grown even more and it has become my number one passion right now.
 
 <p align="center"><strong>Hobbies:</strong></p>
-<p align="center"><strong>🎨 Art, 🎮 Games, 🎥 Movies & Shows, ⛺ Camping, 🌱 Gardening, 🏎️ Formula1, ✈️ Traveling (Someday)</strong></p>
+<p align="center"><strong>🎨 Art, 🎮 Games, 🎥 Movies & Shows, ⛺ Camping, 🌱 Gardening, 🏎️ F1, ✈️ Traveling (Someday)</strong></p>
 <hr>
   <details>
     <summary>Github Statistics</summary>
