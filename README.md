@@ -1,7 +1,7 @@
 ## Welcome! 👋
-<strong>Rebecca L. Smith</strong> is a Computer Science student at Cal Poly Pomona, but her path into tech has been anything but traditional. She began as a self-taught graphic designer, balancing full-time parenting and freelance design work while attending college—an experience that pushed her to grow, adapt, and find her voice.
+Hi, my name is <strong>Rebecca</strong>.
 
-Along the way, she discovered a deeper passion: building interactive experiences that people genuinely enjoy. Today, she’s combining her creative roots with software development to craft thoughtful, engaging applications that reflect both her artistic background and technical skills.
+I’m a Computer Science student at Cal Poly Pomona. My path here has been anything but traditional. I began as a self-taught graphic designer, balancing full-time parenting and freelance design work while also attending college — an experience that pushed me to grow, adapt, and find my voice. Along the way, I discovered a deeper passion: building interactive experiences that people genuinely enjoy playing. I’m now combining my creative roots with software development to craft thoughtful, engaging applications that reflect both sides of who I am.
 
 <p align="center"><strong>Hobbies:</strong></p>
 <p align="center"><strong>🎨 Art, 🎮 Games, 🎥 Movies & Shows, 🏎️ F1, ⛺ Camping, 🌱 Gardening</strong></p>
