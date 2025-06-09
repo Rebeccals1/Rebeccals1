@@ -3,7 +3,7 @@ Hi, my name is <strong>Rebecca</strong>.
 
 I'm a Computer Science student at Cal Poly Pomona, but getting here wasn’t a straight line. I was a self-taught graphic designer who balanced full-time parenting with freelance design work. I continued to attend college on the side for an art degree, but along the way I realized that graphic design wasn’t the path I wanted to take. 
 
-While freelancing, I realized that I love to build with code; I love bringing ideas to life. Software development gave me a way to merge my creative side with my coding side and that blend has shaped every project I take on. I try to focus on three key pillars: aesthetics, usability and performance.
+While freelancing, I realized that I love to build with code; I love bringing ideas to life. Software development gave me a way to merge my creative side with my coding side and that blend has shaped every project I take on. I try to focus on three key pillars: aesthetics, usability and performance. Quality is important to me.
 
 While my journey has been unconventional, it's made me adaptable, curious and eager to grow. I’m proud of where I started and I bring that mix of creativity, determination and resourcefulness into everything I build.
 
